@@ -1,0 +1,23 @@
+.grid-container {
+    margin: 20px;
+  }
+  
+  .card {
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+  }
+  .notSelected:hover{
+    background-color: #999;
+  }
+  .notSelected{
+    cursor: pointer;
+  }
+  .dataSelected{
+    color: #999;
+  }
+  .custom-button{
+    background-color: red;
+    color: white;
+    margin: 5px;
+  }
